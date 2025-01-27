@@ -16,6 +16,6 @@ public class Get_Methodss {
 	    System.out.println(str1);
 	    boolean str2=driver.findElement(By.xpath("//input[@id='female']")).isSelected();
 	    System.out.println(str2);
-	}	
+	    System.out.println("abc");	}	
 
 }
